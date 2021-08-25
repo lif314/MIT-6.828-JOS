@@ -1,16 +1,11 @@
 # MIT-6.828-JOS
-# 项目说明
 
 - Lab Name：MIT 6.828 2018
 - lab link：https://pdos.csail.mit.edu/6.828/2018/schedule.html
-- Stu Num：1951976
-- Name：李林飞
 
 - Platform:  Workstation 16 Pro + Ubuntu 20.04.2 LTS
-- My github code link: 
 
 - 介绍：认真完成了lab1-lab5的实验部分，由于该实验是面向研究生的，所以难度有点大，查阅的资料也较多。每个实验写了详细的实验文档，总计约16万5千字。
-
 
 
 ## DONE
